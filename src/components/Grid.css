@@ -1,0 +1,8 @@
+.grid-row > button {
+  background-color: rgb(219, 212, 212);
+  border-style: groove;
+  width: 60px;
+  height: 60px;
+  text-align: center;
+  font-size: 20px;
+}
